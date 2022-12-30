@@ -4,9 +4,20 @@
 :uk:
 ### Hey,  Dudes  :wave:
 I am Jacob, in my country you should read my name "Jakub".
-I am from Poland, from land flowing with milk and vodka.... ops sory I meant honey... Ehh okay,I don't want to lie to you, you just need to type "Good polish guys" in you internet browser and you will understand what I mean. In this country everyone drinks, but a new generation of young people is a little worst in this than our ancestors. We have to spend one day at least to cure a hangover. Because on this day we are very bored we are looking for new interests. I have begun  programming.  It intrested me so much, that sometimes I used to forgot about drink in the next day. In this way I became Junior <font color="#287193">**.NET** </font> Developer, and now you can read my portfolio  :smirk:
+I am from Poland. Programming is my bag since 10 years when as teenager i was creating my own scripts and plugins for popular game "Minecraft" In the course of time I have developed my passion and just age of 12 I was making my own simple webistes bases on HTML and CSS.  I admit, that I was a little proud of myself when my peers after school was making extra money mowing the lawn or helping in garder works and i  was creating websites for smal local companys from my locality
 
-:exclamation: **Of course I belive that you are a wise human and you didn't take whole my description as truth :stuck_out_tongue_winking_eye:** :exclamation:
+:exclamation: **Do you want see my first simply website witch I created  for my father after watched a few tutorials ? ----> [Link](https://kubartjg.pl/) <-----** :exclamation:
+
+Because I wanted continue my programmin skills, I have sung up to technical IT college, where I gained professional qualifications and quite much general IT knowleage.
+
+Curently I continue study on the university, which I plan finish witch "enginer" title.
+Every day I develop my abilities  in making application on the **.NET** platform. 
+As I am very systematic and consistent, every day I work on my projects, learn a new technologies and English.
+
+:bulb: Do you have good idea on a project ? 
+:computer: Your company looks for young abitious programmer ?
+
+**Let me know, I think, that We can make some good.**
 #
 ####  I'm currently studing :school:
 
