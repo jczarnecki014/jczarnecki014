@@ -25,7 +25,7 @@ As I am very systematic and consistent, every day I work on my projects, learn a
 - Previously: IT Technical School (High School)  "Zespół Szkół Elektronicznych" at Jelenia Góra **( 4 years )**
 
 ### I'm currently working on :wrench:
-:car: **AutoVertical** -  Application to selling vehicles for companys and private persons. I would like create better version of popular polish automotive portal "Otomoto".  My version will contain full administration CMS panel, client panel to manage his announcement and statistics. Panel for company client to publish his companys advertisement on the website. I will write more about this project in its readme 
+:car: **AutoVertical** -  Application to selling vehicles for companys and private persons. I would like create better version of popular polish automotive portal "Otomoto".  My version will contain full administration CMS panel, client panel to manage his adverts and statistics. Panel for company client to publish his companys advertisement on the website. I will write more about this project it readme 
 
 #
 ### Contact with me: 
